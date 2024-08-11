@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bharat
+# Hi there! 👋 I'm Gajanan
 
 ## About Me
 
@@ -23,5 +23,5 @@ Passionate Web Development Student proficient in various web technologies, inclu
 - Pre-final year Computer Science Engineering student
 
 ### 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/bharat-kadam-044aa6247/)
-- Email: kadamb208@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/gajanan-jadhav-999266228/)
+- Email: gj701763@gmail.com
