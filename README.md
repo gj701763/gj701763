@@ -12,7 +12,7 @@ Passionate Web Development Student proficient in various web technologies, inclu
 
 ### 🧑‍💻 Skills
 - C, C++, JAVA
-- HTML5, CSS3, JavaScript,React
+- HTML5, CSS3,tailwind, JavaScript,React
 - Git, GitHub
 
 ### 🌱 Interests
