@@ -20,7 +20,7 @@ Passionate Web Development Student proficient in various web technologies, inclu
 - Exploring new technologies and frameworks
 
 ### 🎓 Education
-- Pre-final year Computer Science Engineering student
+- final year Computer Science Engineering student
 
 ### 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/gajanan-jadhav-999266228/)
