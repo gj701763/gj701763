@@ -1,3 +1,7 @@
+![Logo](https://example.com/logo.png)
+
+
+
 # Hi there! 👋 I'm Gajanan
 
 ## About Me
