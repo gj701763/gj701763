@@ -8,9 +8,9 @@
 
 🎓 B.E. in Computer Science & Engineering
 Government College of Engineering Chandrapur (2021–2025)
-💡 Interested in Backend Development and Web Applications
-🔍 Currently exploring modern web technologies and scalable backend systems
-🌱 Always learning and improving my DSA and software development skills
+- 💡 Interested in Backend Development and Web Applications
+- 🔍 Currently exploring modern web technologies and scalable backend systems
+- 🌱 Always learning and improving my DSA and software development skills
 
 ### 🔭 Currently Learning
 - Advanced Java Backend Development
