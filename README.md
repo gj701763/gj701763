@@ -17,10 +17,13 @@ Government College of Engineering Chandrapur (2021–2025)
 - JavaScript and modern ES features
 - React.js for building interactive UIs
 - Backend frameworks like Spring Boot
+- Databases MySQL
 
 ### 🛠️ Tech Stack
 - Programming Languages : Java,C,C++
 - Frontend : HTML5,CSS3,Tailwind CSS,JavaScript,React.js
+- Backend Development :Core Java,Spring Boot,REST API Development,JDBC,MVC Architecture
+- Databases : MySQL,MongoDB (Basics)
 - Tools & Technologies : Git,GitHub,VS Code,npm,Vite
 
 ### 🌱 Interests
@@ -36,6 +39,7 @@ Government College of Engineering Chandrapur (2021–2025)
 - [LinkedIn](https://www.linkedin.com/in/gajanan-jadhav-999266228/)
 - Email: gj701763@gmail.com
 - [Website](https://gajananrjadhav.vercel.app/)
+- [LeetCode Profile](https://leetcode.com/u/gj701763/)
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
 
